@@ -17,11 +17,11 @@
     <dependencies>
       <group targetFramework="netstandard2.0">
         <dependency id="Microsoft.AspNetCore" version="2.1.7" />
-        <dependency id="prometheus-net" version="__NUGETPACKAGEVERSION__" />
+        <dependency id="prometheus-net" version="4.1.1" />
       </group>
 
       <group targetFramework="netcoreapp3.1">
-        <dependency id="prometheus-net" version="__NUGETPACKAGEVERSION__" />
+        <dependency id="prometheus-net" version="4.1.1" />
       </group>
 
       <group>
